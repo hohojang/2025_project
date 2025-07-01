@@ -1,0 +1,14 @@
+# 소스 코드 파일은 항상 LF 줄바꿈으로 처리
+*.c     text eol=lf
+*.h     text eol=lf
+*.cpp   text eol=lf
+*.hpp   text eol=lf
+
+# Makefile 및 스크립트도 LF로 통일
+*.mk    text eol=lf
+*.sh    text eol=lf
+
+# 바이너리 파일은 변환하지 않음
+*.bin   binary
+*.exe   binary
+*.elf   binary

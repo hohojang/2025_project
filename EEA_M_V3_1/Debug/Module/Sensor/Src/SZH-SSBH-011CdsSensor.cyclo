@@ -1,0 +1,4 @@
+../Module/Sensor/Src/SZH-SSBH-011CdsSensor.c:28:6:InitCdsSensor	1
+../Module/Sensor/Src/SZH-SSBH-011CdsSensor.c:38:10:GetCdsLevel	2
+../Module/Sensor/Src/SZH-SSBH-011CdsSensor.c:54:6:IsCdsLevelOutOfRange	3
+../Module/Sensor/Src/SZH-SSBH-011CdsSensor.c:62:6:DetectLedFaultByCds	3

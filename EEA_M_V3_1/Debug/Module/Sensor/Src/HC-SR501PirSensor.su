@@ -1,0 +1,2 @@
+../Module/Sensor/Src/HC-SR501PirSensor.c:14:6:InitPirSensor	32	static
+../Module/Sensor/Src/HC-SR501PirSensor.c:30:6:IsPirstate	8	static

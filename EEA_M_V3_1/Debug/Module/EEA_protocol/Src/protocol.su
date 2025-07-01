@@ -1,0 +1,5 @@
+../Module/EEA_protocol/Src/protocol.c:37:6:bPeekOffset	32	static
+../Module/EEA_protocol/Src/protocol.c:69:19:SendEEAPacket	160	static
+../Module/EEA_protocol/Src/protocol.c:91:6:HandlePirOffDelayRequest	16	static
+../Module/EEA_protocol/Src/protocol.c:104:6:ProcessLoRaReception	40	static
+../Module/EEA_protocol/Src/protocol.c:219:5:SerializeEEAPacket	24	static

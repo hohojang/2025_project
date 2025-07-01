@@ -1,0 +1,2 @@
+../Module/Sensor/Src/HC-SR501PirSensor.c:14:6:InitPirSensor	1
+../Module/Sensor/Src/HC-SR501PirSensor.c:30:6:IsPirstate	1

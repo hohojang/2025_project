@@ -1,0 +1,5 @@
+../Module/EEA_protocol/Src/protocol.c:37:6:bPeekOffset	3
+../Module/EEA_protocol/Src/protocol.c:69:19:SendEEAPacket	1
+../Module/EEA_protocol/Src/protocol.c:91:6:HandlePirOffDelayRequest	2
+../Module/EEA_protocol/Src/protocol.c:104:6:ProcessLoRaReception	23
+../Module/EEA_protocol/Src/protocol.c:219:5:SerializeEEAPacket	2

@@ -1,0 +1,14 @@
+../Module/Sensor/Src/Sensor.c:52:6:InitAllSensors	1
+../Module/Sensor/Src/Sensor.c:72:9:GetLedFaultStatus	3
+../Module/Sensor/Src/Sensor.c:93:6:PirDetected	3
+../Module/Sensor/Src/Sensor.c:124:6:PirHoldTimeout	5
+../Module/Sensor/Src/Sensor.c:160:6:CheckLightFail	8
+../Module/Sensor/Src/Sensor.c:209:9:CalculateChecksum	2
+../Module/Sensor/Src/Sensor.c:223:6:ProcessAllSensors	3
+../Module/Sensor/Src/Sensor.c:255:6:SendEEADataPacket	4
+../Module/Sensor/Src/Sensor.c:302:6:SendLedStateReport	1
+../Module/Sensor/Src/Sensor.c:312:6:SendPirStatusPacket	2
+../Module/Sensor/Src/Sensor.c:323:6:SendLightFail	1
+../Module/Sensor/Src/Sensor.c:330:6:SendPirOffTimeResponse	1
+../Module/Sensor/Src/Sensor.c:341:6:PirDelayCommand	2
+../Module/Sensor/Src/Sensor.c:357:6:LedControlCommand	9

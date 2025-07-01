@@ -1,0 +1,6 @@
+../Module/Sensor/Src/LedSensor.c:15:6:InitLedSensor	1
+../Module/Sensor/Src/LedSensor.c:32:6:SetLedState	1
+../Module/Sensor/Src/LedSensor.c:41:6:TurnOnLed	1
+../Module/Sensor/Src/LedSensor.c:48:6:TurnOffLed	1
+../Module/Sensor/Src/LedSensor.c:57:6:GetLedState	1
+../Module/Sensor/Src/LedSensor.c:65:6:HandleSensorError	2
